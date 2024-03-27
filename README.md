@@ -1,5 +1,5 @@
 # 💻  Sobre o Projeto:
-Este é um desafio desenvolvido durante o módulo de Java script do curso oferecido pela B7web, com o objetivo de evoluir a construção individual do aluno. Foi desenvolvido o famoso jogo da velha,foram utilizandas apena as tecnologia HTML5,CSS3 e Java Script.
+Este é um desafio desenvolvido durante o módulo de Java script do curso oferecido pela B7web, com o objetivo de evoluir a construção individual do aluno. Foi desenvolvido o famoso jogo da velha,foram utilizadas apena as tecnologia HTML5,CSS3 e Java Script.
 </br>
 # 🛠 Tecnologias utilizadas:
 <div>
